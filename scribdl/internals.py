@@ -2,7 +2,7 @@ import requests
 import sys
 import shutil
 
-GITHUB_URL_BASE = "https://github.com/ritiek/scribd-downloader"
+GITHUB_URL_BASE = "https://github.com/ritwik-ritnov/scribd-downloader"
 
 
 def fix_encoding(query):
