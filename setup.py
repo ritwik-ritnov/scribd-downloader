@@ -31,6 +31,6 @@ setup(name='scribd-downloader',
             'requests >= 2.19.1',
             'BeautifulSoup4 >= 4.6.3',
             'img2pdf >= 0.3.1',
-            'md2pdf >= 0.4'
+            'md2pdf'
       ]
      )
